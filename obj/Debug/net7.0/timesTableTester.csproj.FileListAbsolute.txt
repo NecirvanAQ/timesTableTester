@@ -1,0 +1,15 @@
+E:\_School\Computer Science\timesTableTester\bin\Debug\net7.0\timesTableTester.exe
+E:\_School\Computer Science\timesTableTester\bin\Debug\net7.0\timesTableTester.deps.json
+E:\_School\Computer Science\timesTableTester\bin\Debug\net7.0\timesTableTester.runtimeconfig.json
+E:\_School\Computer Science\timesTableTester\bin\Debug\net7.0\timesTableTester.dll
+E:\_School\Computer Science\timesTableTester\bin\Debug\net7.0\timesTableTester.pdb
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.csproj.AssemblyReference.cache
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.AssemblyInfoInputs.cache
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.AssemblyInfo.cs
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.csproj.CoreCompileInputs.cache
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.dll
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\refint\timesTableTester.dll
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.pdb
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\timesTableTester.genruntimeconfig.cache
+E:\_School\Computer Science\timesTableTester\obj\Debug\net7.0\ref\timesTableTester.dll

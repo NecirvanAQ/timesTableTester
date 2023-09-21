@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "timesTableTester/1.0.0": {
+        "runtime": {
+          "timesTableTester.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "timesTableTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
